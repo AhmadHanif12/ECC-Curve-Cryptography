@@ -9,12 +9,12 @@ Before running the script, ensure you have Python installed on your system. This
 
 ## How to Run the Script
 
-1. Save the script in a file named `ecc_tool.py`.
+1. Save the script in a file named `ECC.py`.
 2. Open your command line interface (CLI).
-3. Navigate to the directory where you saved `ecc_tool.py`.
+3. Navigate to the directory where you saved `ECC.py`.
 4. Run the script using Python by typing:
    ```
-   python ecc_tool.py
+   python ECC.py
    ```
 
 ## Navigating the Menu
